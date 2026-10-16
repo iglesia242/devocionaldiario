@@ -1,0 +1,9 @@
+index.html (con el código completo que incluye la vinculación del manifest y service worker)
+
+manifest.json
+
+sw.js
+
+LOG.jfif (Logo de la iglesia)
+
+logo inst.png (Logo del instituto)
